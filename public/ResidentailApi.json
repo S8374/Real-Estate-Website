@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa with Ocean View",
+      "img": [
+        "https://plus.unsplash.com/premium_photo-1682377521715-95d16dc51943?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wxfHx8ZW58MHx8fHx8",
+        "https://plus.unsplash.com/premium_photo-1682377521625-c656fc1ff3e1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1682377521552-49d35c2c9704?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+      ],
+      "segment_name": "Villa",
+      "description": "A beautiful luxury villa with breathtaking ocean views, modern interiors, and a large outdoor pool.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["living room", "swimming pool", "kitchen", "garden"],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garage": "2 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 2,
+      "estate_title": "Cozy Apartment in City Center",
+      "img": [
+        "https://images.unsplash.com/photo-1501876725168-00c445821c9e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/2156721031/photo/lounge-with-sofa-tv-and-rug-on-wooden-floor.webp?a=1&s=612x612&w=0&k=20&c=hZ4fBttmiO_gXKj5qPJMSW1z9RSdVWnJhRL_xIqMKLI=",
+        "https://media.istockphoto.com/id/1388066927/photo/the-interior-of-a-spacious-living-room.webp?a=1&s=612x612&w=0&k=20&c=A4S_RVhhlDNJ6AL30AyVMKALQIwUhsH03NNnW_dV5GA="
+      ],
+      "segment_name": "Apartment",
+      "description": "A cozy, modern apartment located in the heart of the city, perfect for urban living.",
+      "price": "$850/month",
+      "status": "rent",
+      "area": "900 sq ft",
+      "location": "New York, NY",
+      "facilities": ["living room", "kitchen", "gym access"],
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "garage": "No garage",
+      "view_property": "View Property"
+    },
+    {
+      "id": 3,
+      "estate_title": "Modern Family Home with Garden",
+      "img": [
+        "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1171662835/photo/house-exterior-with-purple-lighting-night-image.webp?a=1&s=612x612&w=0&k=20&c=FO3ONDvBI1jfnh_ah2SNuUOMJyTTLiLB4fI-Mhi1oiM=",
+        "https://media.istockphoto.com/id/2155877603/photo/house-at-dusk-surrounded-by-greenery-in-encino-california.webp?a=1&s=612x612&w=0&k=20&c=ENGKu-gVgOGcodgsnfEGfwlrKR1Wzlj-pYxOiPHuqJA="
+      ],
+      "segment_name": "House",
+      "description": "A perfect family home featuring a spacious garden, modern kitchen, and four bedrooms.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Austin, Texas",
+      "facilities": ["living room", "kitchen", "garage", "garden"],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garage": "2 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 4,
+      "estate_title": "Beachfront Condo with Private Access",
+      "img": [
+        "https://example.com/images/condo1_1.jpg",
+        "https://example.com/images/condo1_2.jpg",
+        "https://example.com/images/condo1_3.jpg"
+      ],
+      "segment_name": "Condo",
+      "description": "This beachfront condo offers stunning views of the ocean and direct private beach access.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Miami, Florida",
+      "facilities": ["living room", "swimming pool", "kitchen", "private beach access"],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": "1 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 5,
+      "estate_title": "Penthouse Suite in Downtown",
+      "img": [
+        "https://plus.unsplash.com/premium_photo-1684175656320-5c3f701c082c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1684175656218-70f1c6f442b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wxfHx8ZW58MHx8fHx8",
+        "https://plus.unsplash.com/premium_photo-1684175656077-1db68058055b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
+      ],
+      "segment_name": "Penthouse",
+      "description": "A stunning penthouse suite with panoramic city views, high ceilings, and luxury amenities.",
+      "price": "$5,000/month",
+      "status": "rent",
+      "area": "4000 sq ft",
+      "location": "Los Angeles, California",
+      "facilities": ["living room", "kitchen", "rooftop access", "swimming pool"],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "garage": "2 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 6,
+      "estate_title": "Suburban Home with Spacious Backyard",
+      "img": [
+        "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "segment_name": "House",
+      "description": "A lovely suburban home with a large backyard and a newly renovated kitchen.",
+      "price": "$300,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "Orlando, Florida",
+      "facilities": ["living room", "kitchen", "garage", "backyard"],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": "1 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 7,
+      "estate_title": "Modern Loft in Urban Area",
+      "img": [
+        "https://images.pexels.com/photos/20337840/pexels-photo-20337840/free-photo-of-view-of-a-loft-style-living-room-with-a-brown-leather-sofa.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1879061/pexels-photo-1879061.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/17358075/pexels-photo-17358075/free-photo-of-painting-by-sofa.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "segment_name": "Loft",
+      "description": "A trendy, modern loft in an urban area with an open floor plan and modern decor.",
+      "price": "$2,200/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Chicago, Illinois",
+      "facilities": ["living room", "kitchen", "gym access"],
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "garage": "No garage",
+      "view_property": "View Property"
+    },
+    {
+      "id": 8,
+      "estate_title": "Cottage Retreat in the Countryside",
+      "img": [
+        "https://images.pexels.com/photos/1131573/pexels-photo-1131573.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/4451739/pexels-photo-4451739.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2762181/pexels-photo-2762181.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "segment_name": "Cottage",
+      "description": "A peaceful cottage retreat surrounded by nature, perfect for relaxation.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Asheville, North Carolina",
+      "facilities": ["living room", "garden", "kitchen", "fireplace"],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garage": "1 car",
+      "view_property": "View Property"
+    },
+    {
+      "id": 9,
+      "estate_title": "Townhouse with Modern Amenities",
+      "img": [
+        "https://images.pexels.com/photos/15940461/pexels-photo-15940461/free-photo-of-clouds-over-street-in-town-with-palm-trees-after-rain.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "segment_name": "Townhouse",
+      "description": "A contemporary townhouse with all modern amenities and a private rooftop.",
+      "price": "$3,500/month",
+      "status": "rent",
+      "area": "1600 sq ft",
+      "location": "Seattle, Washington",
+      "facilities": ["living room", "kitchen", "rooftop", "garage"],
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "garage": "1 car",
+      "view_property": "View Property"
+    }
+  ]
+  
